@@ -2,7 +2,7 @@
 
 > An AI-powered peer-to-peer mock interview platform where senior engineers mentor and conduct live video interviews with candidates. Built with cutting-edge web technologies for real-time video, AI feedback, and credit-based payments.
 
-<img width="1280" height="720" alt="Hire Bridge AI (1)" src="https://github.com/user-attachments/assets/f79664d4-7d61-4067-8c7e-938990d54ca9" />
+
 
 ---
 
